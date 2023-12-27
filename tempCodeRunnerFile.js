@@ -1,0 +1,1 @@
+ // Calcula o índice do mine
